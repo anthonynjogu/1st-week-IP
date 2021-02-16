@@ -7,7 +7,7 @@
 }
 .navbar{
     overflow: hidden;
-    background-color: #333333;
+    background-color: lawngreen;
 
 }
 .navbar{
@@ -26,3 +26,22 @@
     background-color: #ddd;
     color: black;
 }
+* {
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap
+}
+.side{
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+.main{
+    flex: 50%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+    
+
