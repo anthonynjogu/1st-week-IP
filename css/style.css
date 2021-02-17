@@ -1,5 +1,5 @@
 .header{
-    background-color: lawngreen
+    background-color:
 }
 .header h1{
     font-size: 40px
@@ -7,7 +7,8 @@
 }
 .navbar{
     overflow: hidden;
-    background-color: lawngreen;
+    background-color:;
+    fo
 
 }
 .navbar{
@@ -31,7 +32,7 @@
 }
 .row{
     display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 .side{
     flex: 30%;
@@ -48,5 +49,13 @@
         float: none;
         width: 100%;
     }
-    
 
+    
+    .img {
+        width: 200px;
+        height: auto;
+        max-width: 300px;
+
+        
+        
+      }
